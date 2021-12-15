@@ -1,0 +1,29 @@
+h1 {
+    background-color: black;
+    color: white;
+    font-family: "Comic Sans MS";
+    font-style: bold;
+    padding: 10px;
+}
+
+span {
+    color: cyan;
+}
+h2 {
+    background-color: darkviolet;
+    color: white;
+    text-align:center; 
+    font-style: italic;
+    font-family: sans-serif;
+}
+
+
+h3 {
+    background-color: lightskyblue;
+    color: indigo;
+    text-align: right;
+    text-decoration: underline;
+    font-family: monospace;
+}
+
+
